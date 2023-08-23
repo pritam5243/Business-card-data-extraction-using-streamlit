@@ -1,3 +1,7 @@
+!pip install streamlit -q
+!pip install easyOCR
+
+
 %%writefile app.py
 
 import pandas as pd
@@ -147,4 +151,15 @@ if choose == 'Delete Data':
         conn.commit()
         st.success("Card Data Deleted")
 
-  
+  # add in new cell
+!curl ipecho.net/plain
+
+   # add in new cell
+
+!streamlit run app.py & npx localtunnel --port  8501
+
+
+
+*******************************************E-N-D*******************************************************
+
+
