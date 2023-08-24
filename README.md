@@ -75,3 +75,5 @@ Good documentation and code organization would also be important for the project
 Overall, the result of the project would be a useful tool for businesses and individuals
 who need to manage business card information efficiently.
 
+
+Linkden :- https://www.linkedin.com/feed/update/urn:li:activity:7100388994579927040/
